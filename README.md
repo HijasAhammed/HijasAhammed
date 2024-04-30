@@ -1,7 +1,6 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HijasAhammed&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HijasAhammed&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 As a highly skilled MERN stack developer, I am constantly seeking new challenges and opportunities to grow and enhance my skills. With a strong background in web development and a passion for innovation, I am determined to make a significant impact in the tech industry.
 
